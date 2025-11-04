@@ -1,6 +1,2 @@
 # Sevens-card-game
-A Java-based implementation of the classic card game Sevens (known as Cinquillo [Fives] in Spain).
-The game supports 1 to 4 players, allowing the remaining spots to be filled by CPU opponents.
-Players take turns placing cards in ascending or descending order around the starting card (the 5).
-Player with the 5 gold starts.
-The game features a fully text-based interface, enforces valid moves, and provides a simple, engaging way to play Sevens entirely in English.
+A Java-based implementation of the classic card game Sevens (known as Cinquillo or Fives in Spain). The game supports 1 to 4 players, with optional CPU-controlled opponents filling the remaining seats. Players take turns placing cards in ascending or descending order around the starting card — the 5 of Golds begins the game. Featuring a fully text-based interface, the project enforces valid moves and offers a simple yet engaging way to play Sevens entirely in English.
